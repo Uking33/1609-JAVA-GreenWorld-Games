@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Timer
+comment1.params=space\ fps
+comment1.target=Timer(Space,\ int)
+comment2.params=
+comment2.target=void\ setText()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ stop()
+numComments=5

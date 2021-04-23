@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Space
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Space\ here.\r\n\ \r\n\ @Brian\ Myers\ \r\n\ @April\ 2010\r\n
+comment1.params=
+comment1.target=Space()
+comment2.params=isWin
+comment2.target=void\ gameOver(boolean)
+comment3.params=number
+comment3.target=void\ createStars(int)
+numComments=4

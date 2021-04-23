@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Ship
+comment0.text=\r\n\ Ship\ class.\ This\ is\ the\ player\ character.\ It\ shoots,\ maneuvers,\ and\ -\ watch\ out\ -\ explodes.\r\n\ \r\n\ @author\ Brian\ Myers\ \r\n\ @version\ 1.0\r\n
+comment1.params=space\ fps\ x\ y
+comment1.target=Ship(Space,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ stop()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ createLaser()
+comment5.params=
+comment5.target=void\ checkKeys()
+comment6.params=
+comment6.target=void\ handleShotCollision()
+numComments=7
